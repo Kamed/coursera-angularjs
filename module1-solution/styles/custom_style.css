@@ -1,0 +1,15 @@
+.messageEmpty{
+  width: 147px;
+  color: red;
+  border-style: solid;
+  border-width: thin;
+  border-color: red;
+}
+
+.messageNoEmpty{
+  width: 147px;
+  color: green;
+  border-style: solid;
+  border-width: thin;
+  border-color: green;
+}
